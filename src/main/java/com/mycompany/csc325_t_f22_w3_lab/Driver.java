@@ -6,7 +6,7 @@ public class Driver {
     public static void main(String[] args) {
         Student std = new Student();
         
-        std.setName("Moaath Alrajab");
+        std.setfName("Moaath Alrajab");
         System.out.println("The student is "+ std.toString());
     }
     
